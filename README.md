@@ -20,15 +20,6 @@ In this game, you are the ruler of a kingdom for **10 years (turns)**. Your goal
   - **Taxation:** Adjust tax rates between 0.0 and 1.0 (Watch out! High taxes lower happiness).
   - **Resource Tracking:** Global tracking of total Gold and Food.
 
-## 🛠️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/fatmaakcan/MedievalKingdomGame.git
-   ```
-2. Open the project in **NetBeans** or any Java IDE.
-3. Run the `Test.java` file.
-4. Follow the on-screen menu to manage your cities.
-
 ## 📋 Project Structure
 - `Krallik.java`: The main engine that manages turns and game logic.
 - `Sehir.java`: Abstract base class for all city implementations.
