@@ -1,5 +1,4 @@
-//FATMA AKCAN
-//2421021008
+
 package krallikoyunu;
 
 public class SanayiSehri extends Sehir {
